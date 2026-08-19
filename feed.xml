@@ -3,14 +3,14 @@
     <title>DmDh‘s Blog</title>
     <link href="https://dmdh.me/feed.xml" rel="self" />
     <link href="https://dmdh.me" />
-    <updated>2026-08-19T09:17:59+08:00</updated>
+    <updated>2026-08-19T17:31:04+08:00</updated>
     <author>
         <name>DmDh</name>
     </author>
     <id>https://dmdh.me</id>
 
     <entry>
-        <title>Test｜测试 </title>
+        <title>change Test｜测试 </title>
         <author>
             <name>DmDh</name>
         </author>
@@ -20,12 +20,12 @@
         <updated>2026-08-19T09:17:59+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    text example
+                    change text example
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>text example</p>
+                <p>change text example</p>
             ]]>
         </content>
     </entry>

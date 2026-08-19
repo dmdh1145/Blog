@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DmDh‘s Blog",
+    "description": "",
+    "home_page_url": "https://dmdh.me",
+    "feed_url": "https://dmdh.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "DmDh"
+    },
+    "items": [
+        {
+            "id": "https://dmdh.me/testorce-shi.html",
+            "url": "https://dmdh.me/testorce-shi.html",
+            "title": "Test｜测试 ",
+            "summary": "text example",
+            "content_html": "<p>text example</p>",
+            "author": {
+                "name": "DmDh"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-19T09:17:59+08:00",
+            "date_modified": "2026-08-19T09:17:59+08:00"
+        }
+    ]
+}

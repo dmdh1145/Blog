@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>DmDh‘s Blog</title>
+    <link href="https://dmdh.me/feed.xml" rel="self" />
+    <link href="https://dmdh.me" />
+    <updated>2026-08-19T09:17:59+08:00</updated>
+    <author>
+        <name>DmDh</name>
+    </author>
+    <id>https://dmdh.me</id>
+
+    <entry>
+        <title>Test｜测试 </title>
+        <author>
+            <name>DmDh</name>
+        </author>
+        <link href="https://dmdh.me/testorce-shi.html"/>
+        <id>https://dmdh.me/testorce-shi.html</id>
+
+        <updated>2026-08-19T09:17:59+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    text example
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>text example</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

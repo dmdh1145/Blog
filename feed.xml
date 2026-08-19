@@ -3,29 +3,51 @@
     <title>DmDh‘s Blog</title>
     <link href="https://dmdh.me/feed.xml" rel="self" />
     <link href="https://dmdh.me" />
-    <updated>2026-08-19T17:31:04+08:00</updated>
+    <updated>2026-08-19T20:11:07+08:00</updated>
     <author>
         <name>DmDh</name>
     </author>
     <id>https://dmdh.me</id>
 
     <entry>
-        <title>change Test｜测试 </title>
+        <title>服务器宣传</title>
         <author>
             <name>DmDh</name>
         </author>
-        <link href="https://dmdh.me/testorce-shi.html"/>
-        <id>https://dmdh.me/testorce-shi.html</id>
+        <link href="https://dmdh.me/fu-wu-qi-xuan-chuan/"/>
+        <id>https://dmdh.me/fu-wu-qi-xuan-chuan/</id>
 
-        <updated>2026-08-19T09:17:59+08:00</updated>
+        <updated>2026-08-19T20:10:35+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    change text example
+                    我的朋友 SLY 正在运营一个MC生存服务器，版本为26.2。 QQ群：1061538673 谢谢。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>change text example</p>
+                <p>我的朋友 SLY 正在运营一个MC生存服务器，版本为26.2。</p>
+<p>QQ群：1061538673</p>
+<p>谢谢。</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>建站纪念</title>
+        <author>
+            <name>DmDh</name>
+        </author>
+        <link href="https://dmdh.me/jian-zhan-ji-nian/"/>
+        <id>https://dmdh.me/jian-zhan-ji-nian/</id>
+
+        <updated>2026-08-19T17:43:02+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    2026年8月19日，我购买域名dmdh.me，使用Publii+Github+Cloudflare完成基本页面搭建。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>2026年8月19日，我购买域名<a href="https://dmdh.me?">dmdh.me</a><a href="https://dmdh.me/tags/" target="_blank" rel="noopener noreferrer"></a>，使用Publii+Github+Cloudflare完成基本页面搭建。<a href="dmdh.me"></a></p>
             ]]>
         </content>
     </entry>

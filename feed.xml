@@ -10,28 +10,6 @@
     <id>https://dmdh.me</id>
 
     <entry>
-        <title>服务器宣传</title>
-        <author>
-            <name>DmDh</name>
-        </author>
-        <link href="https://dmdh.me/fu-wu-qi-xuan-chuan/"/>
-        <id>https://dmdh.me/fu-wu-qi-xuan-chuan/</id>
-
-        <updated>2026-08-19T20:10:35+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    我的朋友 SLY 正在运营一个 MC 生存服务器，版本为 26.2。 QQ 群：1061538673。 谢谢。
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>我的朋友 SLY 正在运营一个 MC 生存服务器，版本为 26.2。</p>
-<p>QQ 群：1061538673。</p>
-<p>谢谢。</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>建站纪念</title>
         <author>
             <name>DmDh</name>

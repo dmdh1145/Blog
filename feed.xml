@@ -3,12 +3,51 @@
     <title>DmDh&#x27;s Blog</title>
     <link href="https://dmdh.me/feed.xml" rel="self" />
     <link href="https://dmdh.me" />
-    <updated>2026-08-29T14:57:25+08:00</updated>
+    <updated>2026-09-13T04:15:21+08:00</updated>
     <author>
         <name>DmDh</name>
     </author>
     <id>https://dmdh.me</id>
 
+    <entry>
+        <title>借一篇英语周记，记录我最近折腾的AI</title>
+        <author>
+            <name>DmDh</name>
+        </author>
+        <link href="https://dmdh.me/jie-yi-pian-ying-yu-zhou-jiji-lu-wo-zui-jin-zhe-teng-de-ai/"/>
+        <id>https://dmdh.me/jie-yi-pian-ying-yu-zhou-jiji-lu-wo-zui-jin-zhe-teng-de-ai/</id>
+
+        <updated>2026-09-13T03:54:03+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p class="isSelectedEnd">其实，这篇周记是新学期的一项英语作业。</p>
+<p>说是周记，其实也没什么特别的要求。写写这一周发生了什么，最近在做些什么，或者只是记录一点自己的想法，都可以。</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="isSelectedEnd">其实，这篇周记是新学期的一项英语作业。</p>
+<p>说是周记，其实也没什么特别的要求。写写这一周发生了什么，最近在做些什么，或者只是记录一点自己的想法，都可以。</p>
+
+<p>我想了想，这周倒也没有什么特别值得一提的大事。不过，如果说最近我一直在折腾些什么，那应该是 AI 了。这段时间，我又重拾了部分编程本事，也开始试着用 AI 做一些诸如网站界面、工具箱一类的小东西。</p>
+<p>所以，这次的英语周记，我决定就写这个。</p>
+<blockquote>
+<h3>My Week with AI</h3>
+<p>This week, I spent some of my free time playing with AI. As you know, I really like trying interesting things. So, I recently tried something new called “vibe coding”.</p>
+<p>You may have a question: What is "vibe coding"?</p>
+<p>It is a way of using AI to help with coding. Instead of writing everything by myself, I can just tell AI what I want to make, and it helps me create it. I tried doing this with DeepSeek, and I found it really interesting.</p>
+<p>I used it to make some small things and improve my own website. Of course, it didn’t always work perfectly. Sometimes I had to change my ideas or ask it to fix some problems. But I actually enjoyed this process.</p>
+<p>A few weeks ago, I created my own website, “dmdh.me”. It's a personal blog site. I use it to write something I like, record some of my ideas, and share things I've made. Recently, I also started thinking about how to make it better with the help of AI.</p>
+<p>I really like the feeling of seeing my ideas become real in a short time. I wasn’t simply asking AI for answers. I was trying things, making mistakes, and finding ways to improve them. Nowadays, AI has almost become my agent, my copilot and my good teacher.</p>
+<p>I’m still learning about programming, so there are many things I don’t understand yet. But I think it's OK. I’m curious, and I like learning things by trying them myself.</p>
+<p>That’s probably what I enjoyed most this week. I learned something new, made something interesting, and had a lot of fun.</p>
+</blockquote>
+<figure class="post__image"><img loading="lazy"  src="https://dmdh.me/media/posts/11/Snipaste_2026-09-13_04-13-42.png" alt="" width="390" height="260" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://dmdh.me/media/posts/11/responsive/Snipaste_2026-09-13_04-13-42-xs.png 300w ,https://dmdh.me/media/posts/11/responsive/Snipaste_2026-09-13_04-13-42-sm.png 480w ,https://dmdh.me/media/posts/11/responsive/Snipaste_2026-09-13_04-13-42-md.png 768w"></figure>
+<p>写到这里，这篇作为英语作业的周记，也就成了博客里的一篇小文章。<br><br>就这样把最近的我记录下来吧。<br><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>我的域名们</title>
         <author>

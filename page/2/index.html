@@ -1,0 +1,289 @@
+<!DOCTYPE html><html lang="zh-cn"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DmDh&#x27;s Blog</title><meta name="description" content="DmDh的互联网自留地。"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://dmdh.me/page/2/"><link rel="alternate" type="application/atom+xml" href="https://dmdh.me/feed.xml" title="DmDh&#x27;s Blog - RSS"><link rel="alternate" type="application/json" href="https://dmdh.me/feed.json" title="DmDh&#x27;s Blog - JSON"><meta property="og:title" content="DmDh&#x27;s Blog"><meta property="og:image" content="https://dmdh.me/media/website/471ee868b2c93d0852c6f89b9e404f37-removebg-preview.png"><meta property="og:image:width" content="500"><meta property="og:image:height" content="500"><meta property="og:site_name" content="DmDh&#x27;s Blog"><meta property="og:description" content="DmDh的互联网自留地。"><meta property="og:url" content="https://dmdh.me/page/2/"><meta property="og:type" content="website"><link rel="shortcut icon" href="https://dmdh.me/media/website/1.png" type="image/x-icon"><link rel="prev" href="https://dmdh.me/"><link rel="stylesheet" href="https://dmdh.me/assets/css/style.css?v&#x3D;142a95b3971e264c55ad0bf7153952f6"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"DmDh's Blog","logo":"https://dmdh.me/media/website/471ee868b2c93d0852c6f89b9e404f37-removebg-preview.png","url":"https://dmdh.me/"}</script><noscript><style>img[loading] {
+                    opacity: 1;
+                }</style></noscript></head><body class="pagination-template"><div class="container js-container"><nav class="menu"><ul class="navbar__menu"><li class="active"><a href="https://dmdh.me/" target="_self">主页｜Home page</a></li><li><a href="https://dmdh.me/gallery/" target="_self">摄影集｜Gallery</a></li><li><a href="https://dmdh.me/about-me/" target="_self">关于我｜About me</a></li><li><a href="https://dmdh.me/resources/" target="_self">资源｜Resources</a></li><li><a href="https://dmdh.me/links/" target="_self">友链｜Links</a></li><li><a href="https://dmdh.space" target="_blank">DMDH.SPACE</a></li><li><a href="https://dmdh.uno" target="_blank">DMDH.UNO</a></li><li><a href="https://dmdh.me/feed.xml" target="_blank">◔ RSS</a></li></ul></nav><div class="container__content"><header class="top"><div class="top__item"><a class="logo" href="https://dmdh.me/"><img src="https://dmdh.me/media/website/471ee868b2c93d0852c6f89b9e404f37-removebg-preview.png" alt="DmDh&#x27;s Blog" width="500" height="500"></a></div><div class="top__item top__item--right"><button class="menu-toggle js-menu-toggle" aria-label="Menu" aria-expanded="false"><span class="menu-toggle-box"><span class="menu-toggle-inner">Menu</span></span></button></div></header><main class="main"><div class="main__left"><figure class="hero"><img src="https://dmdh.me/media/website/Wei-Xin-Tu-Pian_20260927214234_135_3.jpg" srcset="https://dmdh.me/media/website/responsive/Wei-Xin-Tu-Pian_20260927214234_135_3-xs.jpg 300w, https://dmdh.me/media/website/responsive/Wei-Xin-Tu-Pian_20260927214234_135_3-sm.jpg 480w, https://dmdh.me/media/website/responsive/Wei-Xin-Tu-Pian_20260927214234_135_3-md.jpg 768w, https://dmdh.me/media/website/responsive/Wei-Xin-Tu-Pian_20260927214234_135_3-lg.jpg 1024w, https://dmdh.me/media/website/responsive/Wei-Xin-Tu-Pian_20260927214234_135_3-xl.jpg 1280w, https://dmdh.me/media/website/responsive/Wei-Xin-Tu-Pian_20260927214234_135_3-2xl.jpg 1600w" sizes="(min-width: 1800px) 50vw, (min-width: 900px) 40vw, 100vw" loading="eager" width="6016" height="4016" alt=""></figure><header><h1 class="align-left welcome-text"><span class="welcome-en">Welcome!</span> <span class="welcome-cn">欢迎！</span></h1><p class="align-left">这里是 DmDh 的 <span id="site-type">个人博客</span>。</p><p class="align-left"> </p><p class="align-left quote-box"><span id="quote"></span></p><p><script>document.addEventListener("DOMContentLoaded", function () {
+
+
+/* =====================
+   DmDh 文案切换
+===================== */
+
+const types = [
+    "个人博客",
+    "自留地",
+    "数据库",
+    "思想存档",
+    "档案馆",
+    "创作空间",
+    "数字据点"
+];
+
+
+const siteType = document.getElementById("site-type");
+
+let typeIndex = 0;
+
+
+setInterval(function () {
+
+
+    // 淡出
+    siteType.classList.add("site-type-hide");
+
+
+    setTimeout(function () {
+
+
+        typeIndex = (typeIndex + 1) % types.length;
+
+
+        siteType.textContent = types[typeIndex];
+
+
+        // 淡入
+        siteType.classList.remove("site-type-hide");
+
+
+    }, 400);
+
+
+}, 10000);
+
+
+
+
+
+/* =====================
+   格言切换
+===================== */
+
+const quotes = [
+    "I belong nowhere, and perhaps that is my freedom.",
+    "Do not go gentle into that good night.",
+    "Not all those who wander are lost.",
+    "We are all in the gutter, but some of us are looking at the stars.",
+    "We take photos as a return ticket to a moment otherwise gone.",
+    "The past is never dead. It's not even past.",
+    "The stars are silent, but they tell stories.",
+    "Build things that outlive you.",
+    "Stay curious. Keep exploring.",
+    "The Internet is not a place. It is a way of being.",
+    "Make something wonderful.",
+    "All we have to decide is what to do with the time that is given us.",
+    "Our shadows taller than our soul.",
+    "Create. Capture. Remember.",
+    "The world is vast, and there is always somewhere to explore."
+];
+
+
+const quote = document.getElementById("quote");
+
+let usedQuotes = [];
+
+
+
+function getRandomQuote() {
+
+
+    if (usedQuotes.length === quotes.length) {
+        usedQuotes = [];
+    }
+
+
+    let index;
+
+
+    do {
+
+        index = Math.floor(Math.random() * quotes.length);
+
+    } while (usedQuotes.includes(index));
+
+
+    usedQuotes.push(index);
+
+
+    return quotes[index];
+
+}
+
+
+
+function changeQuote() {
+
+
+    // 淡出
+    quote.classList.add("quote-hide");
+
+
+    setTimeout(function () {
+
+
+        quote.innerHTML =
+        "<em>\"" + getRandomQuote() + "\"</em>";
+
+
+        // 淡入
+        quote.classList.remove("quote-hide");
+
+
+    }, 700);
+
+}
+
+
+
+// 初次显示
+quote.innerHTML =
+"<em>\"" + getRandomQuote() + "\"</em>";
+
+
+// 每7秒切换
+setInterval(changeQuote, 7000);
+
+
+});</script></p></header></div><div class="main__right feed"><div><article class="feed__item"><header><h2><a href="https://dmdh.me/jian-zhan-ji-nian/">建站纪念</a></h2><div class="feed__meta"><time datetime="2026-08-19T17:43">八月 19, 2026 </time><span>by</span> <a href="https://dmdh.me/authors/dmdh/">DmDh</a></div></header><p>2026年8月19日，我购买域名 dmdh.me ，使用 Publii + Github + Cloudflare 完成基本页面搭建。</p></article><nav class="pagination desc"><a href="https://dmdh.me/" class="btn">Next</a></nav></div></div></main><footer class="footer"><div class="footer__copyright">© 2026 DmDh All rights reserved. Everlasting ......</div></footer></div></div><script defer="defer" src="https://dmdh.me/assets/js/scripts.min.js?v&#x3D;1ea8317abae2e05fa2a65ed7bbff7ba7"></script><script>var images = document.querySelectorAll('img[loading]');
+
+        for (var i = 0; i < images.length; i++) {
+            if (images[i].complete) {
+                images[i].classList.add('is-loaded');
+            } else {
+                images[i].addEventListener('load', function () {
+                    this.classList.add('is-loaded');
+                }, false);
+            }
+        }</script><script>document.addEventListener("DOMContentLoaded", function () {
+
+    var passwordInput = document.getElementById("dmdh-sub-password");
+    var unlockButton = document.getElementById("dmdh-sub-unlock-button");
+    var lockBox = document.getElementById("dmdh-sub-lock");
+    var contentBox = document.getElementById("dmdh-sub-content");
+    var errorBox = document.getElementById("dmdh-sub-error");
+
+    function unlockSubscriptions() {
+
+        if (passwordInput.value === "DDDmDDDh") {
+
+            lockBox.style.display = "none";
+            contentBox.style.display = "block";
+            errorBox.style.display = "none";
+
+        } else {
+
+            errorBox.style.display = "block";
+
+        }
+    }
+
+
+    /* 鼠标点击解锁 */
+    if (unlockButton) {
+
+        unlockButton.addEventListener("click", function () {
+            unlockSubscriptions();
+        });
+
+    }
+
+
+    /* Enter 键解锁 */
+    if (passwordInput) {
+
+        passwordInput.addEventListener("keydown", function (event) {
+
+            if (event.key === "Enter") {
+                unlockSubscriptions();
+            }
+
+        });
+
+    }
+
+
+    /* Copy */
+    var copyButtons = document.querySelectorAll(".dmdh-copy-button");
+
+    copyButtons.forEach(function (button) {
+
+        button.addEventListener("click", function () {
+
+            var item = button.closest(".dmdh-sub-item");
+
+            if (!item) {
+                return;
+            }
+
+            var text = item.getAttribute("data-sub");
+
+            if (!text) {
+                return;
+            }
+
+
+            /* 优先使用现代 Clipboard API */
+            if (navigator.clipboard && window.isSecureContext) {
+
+                navigator.clipboard.writeText(text).then(function () {
+
+                    button.innerText = "Copied!";
+
+                    setTimeout(function () {
+                        button.innerText = "Copy";
+                    }, 1500);
+
+                }).catch(function () {
+
+                    fallbackCopy(text, button);
+
+                });
+
+            } else {
+
+                fallbackCopy(text, button);
+
+            }
+
+        });
+
+    });
+
+
+    /* 兼容旧浏览器的复制方法 */
+    function fallbackCopy(text, button) {
+
+        var textarea = document.createElement("textarea");
+
+        textarea.value = text;
+
+        textarea.style.position = "fixed";
+        textarea.style.left = "-9999px";
+        textarea.style.top = "0";
+        textarea.style.opacity = "0";
+
+        document.body.appendChild(textarea);
+
+        textarea.focus();
+        textarea.select();
+
+        try {
+
+            document.execCommand("copy");
+
+            button.innerText = "Copied!";
+
+        } catch (error) {
+
+            button.innerText = "Failed";
+
+        }
+
+        document.body.removeChild(textarea);
+
+        setTimeout(function () {
+
+            button.innerText = "Copy";
+
+        }, 1500);
+
+    }
+
+});</script></body></html>

@@ -3,7 +3,7 @@
     <title>DmDh&#x27;s Blog</title>
     <link href="https://dmdh.me/feed.xml" rel="self" />
     <link href="https://dmdh.me" />
-    <updated>2026-10-29T22:26:21+08:00</updated>
+    <updated>2026-11-04T21:48:47+08:00</updated>
     <author>
         <name>DmDh</name>
     </author>
@@ -39,6 +39,7 @@
 <p>或许，我们需要再一次文艺复兴。</p>
 <p> </p>
 <p><span style="color: #95a5a6;"><em>To be continued…</em></span></p>
+<p>（不想写了）</p>
             ]]>
         </content>
     </entry>
@@ -79,16 +80,16 @@
         <updated>2026-09-26T00:50:34+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <p>九月将尽。这一周，我做了许多事情，今天一并记录下来。</p>
+                    <p>这一周，我做了许多事情，今天一并记录下来。</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>九月将尽。这一周，我做了许多事情，今天一并记录下来。</p>
+                <p>这一周，我做了许多事情，今天一并记录下来。</p>
 
 <h2>项目</h2>
-<p>本周重度使用 OpenCode，做了一些自己觉得有意思的东西，首先是两个电脑软件：</p>
+<p>重度使用 OpenCode，做了一些自己觉得有意思的东西，首先是两个电脑软件：</p>
 <div class="dmdh-project-grid"><a class="dmdh-project-card" href="https://github.com/dmdh1145/aira" target="_blank" rel="noopener noreferrer">
 <div class="dmdh-project-top"><strong>Aira</strong> ↗</div>
 <p>A macOS AI client for OpenAI-compatible APIs.</p>
@@ -112,10 +113,6 @@
 <p>花半小时做了个飞机大战出来，当然这不是最终成品。未来这里估计会是一个导航站，索引我那些稀奇古怪的东西。</p>
 <p class="msg--highlight"><em>2026.10.1 ：dmdh.uno已改为导航站，太空射击游戏移至 <a href="https://shooter.dmdh.uno" target="_blank" rel="noopener noreferrer">shooter.dmdh.uno</a>。</em></p>
 <figure class="post__image"><img loading="lazy"  src="https://dmdh.me/media/posts/12/Snipaste_2026-09-26_01-29-45.png" alt="" width="1355" height="738" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://dmdh.me/media/posts/12/responsive/Snipaste_2026-09-26_01-29-45-xs.png 300w ,https://dmdh.me/media/posts/12/responsive/Snipaste_2026-09-26_01-29-45-sm.png 480w ,https://dmdh.me/media/posts/12/responsive/Snipaste_2026-09-26_01-29-45-md.png 768w"></figure>
-<h4><a href="https://wakana.dmdh.uno" target="_blank" rel="noopener noreferrer">wakana.dmdh.uno</a></h4>
-<p>和奏！我做了她的个人页！</p>
-<figure class="post__image"><img loading="lazy"  src="https://dmdh.me/media/posts/12/Snipaste_2026-09-26_01-32-22.png" alt="" width="1355" height="739" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://dmdh.me/media/posts/12/responsive/Snipaste_2026-09-26_01-32-22-xs.png 300w ,https://dmdh.me/media/posts/12/responsive/Snipaste_2026-09-26_01-32-22-sm.png 480w ,https://dmdh.me/media/posts/12/responsive/Snipaste_2026-09-26_01-32-22-md.png 768w"></figure>
-<p>是非常好的 FanMade 页呢...</p>
 <h2>摄影</h2>
 <p>前几天买了一支腾龙的 70-300mm 镜头，弥补了自己 Z 卡口镜头群的空缺。</p>
 <figure class="post__image"><img loading="lazy"  src="https://dmdh.me/media/posts/12/Wei-Xin-Tu-Pian_2026-09-26_014235_156.jpg" alt="" width="1440" height="1920" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://dmdh.me/media/posts/12/responsive/Wei-Xin-Tu-Pian_2026-09-26_014235_156-xs.jpg 300w ,https://dmdh.me/media/posts/12/responsive/Wei-Xin-Tu-Pian_2026-09-26_014235_156-sm.jpg 480w ,https://dmdh.me/media/posts/12/responsive/Wei-Xin-Tu-Pian_2026-09-26_014235_156-md.jpg 768w"></figure>
@@ -127,13 +124,8 @@
 </div></div>
 <p>这几张就不放到 <a href="https://dmdh.me/gallery/" target="_blank" rel="noopener noreferrer">Gallery</a> 里了。</p>
 <h2>游戏</h2>
-<p>一直在玩 CS2，一天不玩浑身难受。最近迷上了手枪死斗，usp 和双枪尤其爽，开始研究枪皮和印花。每周掉落的箱子开出了个粉色品质的 ump，挺好。也推了会 ATRI。</p>
+<p>一直在玩 CS2，一天不玩浑身难受。最近迷上了手枪死斗，usp 和双枪尤其爽，开始研究枪皮和印花。每周掉落的箱子开出了个粉色品质的 ump，挺好。</p>
 <div><hr></div>
-<div>生活还在继续...</div>
-<div> </div>
-<div style="max-width: 330px;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="86" frameborder="no" border="0" marginwidth="0" marginheight="0" src="https://music.163.com/outchain/player?type=2&amp;id=34324542&amp;auto=0&amp;height=66">
-  </iframe></div></div>
-<p class="msg--highlight"><em>注：点击棕色链接，即可跳转至对应页面。</em></p>
             ]]>
         </content>
     </entry>
